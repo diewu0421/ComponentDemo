@@ -1,0 +1,3 @@
+include ':homemodule'
+include ':app'
+rootProject.name = "ComponentDemo"
